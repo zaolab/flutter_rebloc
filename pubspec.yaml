@@ -1,10 +1,9 @@
 name: flutter_rebloc
 description: A BLoC implementation inspired by flutter_bloc.
 version: 1.0.0
-author: Zao Lab Pte. Ltd.
 repository: https://github.com/zaolab/flutter_rebloc
 issue_tracker: https://github.com/zaolab/flutter_rebloc/issues
-homepage:
+homepage: https://github.com/zaolab/flutter_rebloc
 
 environment:
   sdk: ">=2.2.0 <3.0.0"
